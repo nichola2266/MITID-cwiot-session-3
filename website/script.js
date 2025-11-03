@@ -1,8 +1,8 @@
 document.addEventListener("DOMContentLoaded", () => {
 
     // adafruit Setup
-    const username = "username";
-    const activeKey = "apiKey";
+    const username = "Nichola2266";
+    const activeKey = "apikey";
     const IO = new AdafruitIO(username, activeKey);
 
     // ###################### Color Picker ######################
